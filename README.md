@@ -2,7 +2,7 @@ Hi 👋, I'm Mohamed Galala
 
 A Software Engineer || Flutter Developer from Egypt
 
-🔭 I’m currently working on Kaartapp.com<br>
+🔭 I’m currently working on kaartapp.com<br>
 🌱 I’m currently learning Riverpod Statemangment<br>
 📫 How to reach me mgalala4@gmail.com<br><br>
 
