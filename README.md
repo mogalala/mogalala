@@ -1,7 +1,8 @@
-### Hi there 👋
+Hi 👋, I'm Mohamed Galala
 
-# 💫 About Me:
-🔭 I’m currently working on Kaartapp<br>
+A Software Engineer || Flutter Developer from Egypt
+
+🔭 I’m currently working on Kaartapp.com<br>
 🌱 I’m currently learning Riverpod Statemangment<br>
 📫 How to reach me mgalala4@gmail.com<br><br>
 
